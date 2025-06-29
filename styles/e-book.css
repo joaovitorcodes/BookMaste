@@ -7,14 +7,14 @@
 
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f4f4f4;
+    background-color: black;
     color: #333;
     line-height: 1.6;
 }
 
 /* Cabeçalho */
 header {
-    background-color: #333;
+    background-color: black;
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -25,7 +25,7 @@ header h1 {
 }
 
 header a {
-    color: #ffd700;
+    color: #fff;
     text-decoration: none;
     font-weight: bold;
 }
